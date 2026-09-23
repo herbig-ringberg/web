@@ -3,8 +3,6 @@
 type: schedule
 active: true
 title: Programme
-
-program:
     
 # ----------------------------------------------------------------
       
