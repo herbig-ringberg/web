@@ -24,11 +24,8 @@ privacy-policy:
 
 content:
     - overview
-    - organizers
-    - participants
-    - speakers
     - programme
-    - venue-ringberg
+    - participants
     - logistics
     - travel-ringberg
     - code-of-conduct
