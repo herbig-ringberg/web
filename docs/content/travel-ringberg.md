@@ -11,7 +11,7 @@ active: true
 
 You may need to apply for a visa to enter Germany. See this overview of [visa requirements](http://www.mpia.de/en/services/information-for-guests/before-arrival).
 
-Feel free to contact the organizers if you need a letter of support. 
+Feel free to contact the organizers if you need a letter of support.
 
 
 ## <i class="fa-solid fa-triangle-exclamation"></i> Travel restrictions
