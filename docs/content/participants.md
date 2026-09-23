@@ -43,4 +43,4 @@ Olja Panic,
 Ollie Brown, 
 Pedro Poblete, 
 Rebeca Garcia Lopez, 
-René Oudmaijer, 
+René Oudmaijer
