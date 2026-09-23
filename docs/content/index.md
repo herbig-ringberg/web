@@ -6,7 +6,7 @@ event:
     - title: Herbig Stars and Their Planet-Forming Disks
     - subtitle: A Ringberg workshop hosted by the Max Planck Institute for Astronomy
     - date: 17th to 22nd January, 2027
-    - venue: Schloss Ringberg, Bavaria, Germany 
+    - venue: Schloss Ringberg, Bavaria, Germany
 
 organizers:
     - name: Lucas Stapper
