@@ -17,7 +17,7 @@ Germany
 
 ## <i class="fa-solid fa-clock"></i> Schedule
 
-The workshop will start at 09:00 on Monday, January 18th 2027, and finish at 16:00 on Friday, January 22nd 2027. A full program will be available in due course.
+Participants are expected to arrive on Sunday, January 17th 2027. The workshop will start at 09:00 on Monday, January 18th 2027, and finish at 16:00 on Friday, January 22nd 2027. A full program will be available in due course.
 
 ## <i class="fa-solid fa-dollar-sign"></i> Costs
 
@@ -27,4 +27,6 @@ Please note that dinner is _not_ served on Sunday or Friday.
 
 ## <i class="fa-solid fa-universal-access"></i> Accessibility
 
-We are committed to providing an accessible environment for all participants.  Ringberg is wheelchair accessible (see [this page](https://www.schloss-ringberg.de/137267/barrierefreiheit) for more detailed information). If you need help or any other special arrangements, please don't hesitate to contact the organizers at [gaiaexo2026@mpia.de](mailto:gaiaexo2026@mpia.de).
+We are committed to providing an accessible environment for all participants.  Ringberg is wheelchair accessible (see [this page](https://www.schloss-ringberg.de/137267/barrierefreiheit) for more detailed information). 
+
+<! -- If you need help or any other special arrangements, please don't hesitate to contact the organizers at [gaiaexo2026@mpia.de](mailto:gaiaexo2026@mpia.de). -->
