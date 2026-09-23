@@ -28,5 +28,3 @@ Please note that dinner is _not_ served on Sunday or Friday.
 ## <i class="fa-solid fa-universal-access"></i> Accessibility
 
 We are committed to providing an accessible environment for all participants.  Ringberg is wheelchair accessible (see [this page](https://www.schloss-ringberg.de/137267/barrierefreiheit) for more detailed information). 
-
-<! -- If you need help or any other special arrangements, please don't hesitate to contact the organizers at [gaiaexo2026@mpia.de](mailto:gaiaexo2026@mpia.de). -->
