@@ -1,110 +1,268 @@
-
 <!DOCTYPE html>
+<html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta charset="utf-8" />
-    <title>Welcome to No Errors Test Project’s documentation! &#8212; No Errors Test Project  documentation</title>
-    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
-    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
-    <script src="_static/jquery.js"></script>
-    <script src="_static/underscore.js"></script>
-    <script src="_static/doctools.js"></script>
-    <script src="_static/language_data.js"></script>
-    <link rel="index" title="Index" href="genindex.html" />
-    <link rel="search" title="Search" href="search.html" />
-   
-  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
-  
-  
-  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title> Herbig Stars and Their Planet-Forming Disks </title>
 
-  </head><body>
-  
+    <!-- favicon -->
+    <link href="" rel=icon>
 
-    <div class="document">
-      <div class="documentwrapper">
-        <div class="bodywrapper">
-          
+    <!-- Bootstrap -->
+    <link rel=stylesheet href=https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin=anonymous media=print onload="this.media='all'">
+    <link rel=stylesheet href=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css crossorigin=anonymous title=hl-light media=print onload="this.media='all'">
+    <link rel=stylesheet href=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css crossorigin=anonymous title=hl-dark media=print onload="this.media='all'" disabled>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <script src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js integrity crossorigin=anonymous async></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
-          <div class="body" role="main">
-            
-  <div class="section" id="welcome-to-no-errors-test-project-s-documentation">
-<h1>Welcome to No Errors Test Project’s documentation!<a class="headerlink" href="#welcome-to-no-errors-test-project-s-documentation" title="Permalink to this headline">¶</a></h1>
-<div class="toctree-wrapper compound">
-</div>
-</div>
-<div class="section" id="indices-and-tables">
-<h1>Indices and tables<a class="headerlink" href="#indices-and-tables" title="Permalink to this headline">¶</a></h1>
-<ul class="simple">
-<li><p><a class="reference internal" href="genindex.html"><span class="std std-ref">Index</span></a></p></li>
-<li><p><a class="reference internal" href="py-modindex.html"><span class="std std-ref">Module Index</span></a></p></li>
-<li><p><a class="reference internal" href="search.html"><span class="std std-ref">Search Page</span></a></p></li>
-</ul>
-</div>
+    <!-- Style CSS -->
+    <link href="css/style.css" rel="stylesheet">
 
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
 
-          </div>
-          
+<body id="page-top" data-spy="scroll" data-target=".navbar">
+    <div id="main-wrapper">
+        <!-- Page Preloader -->
+        <div id="preloader">
+            <div id="status">
+                <div class="status-mes"></div>
+            </div>
         </div>
-      </div>
-      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
-        <div class="sphinxsidebarwrapper">
-<h1 class="logo"><a href="#">No Errors Test Project</a></h1>
 
+        <header class="header">
+            <!-- Navigation -->
+            <nav class="navbar main-menu" role="navigation">
+                <div class="container">
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                        <ul class="nav navbar-nav" style="display: flex;flex-wrap: wrap;flex-direction: row;align-content: center;justify-content: space-evenly;">
+                            <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                            <li class="hidden"><a href="#page-top"></a></li>
+                            <li><a class="page-scroll" href="#page-top">Home</a></li>
+                            <li><a class="page-scroll" href="#section-overview">Overview</a></li>
 
+<li><a class="page-scroll" href="#section-participants">Participants</a></li>
+<li><a class="page-scroll" href="#section-logistics">Logistics</a></li>
+<li><a class="page-scroll" href="#section-travel-ringberg">Travel</a></li>
+<li><a class="page-scroll" href="#section-code-of-conduct">Code of conduct</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+                <!-- /.container -->
+            </nav>
+            <!-- .nav -->
+        </header>
 
-
-
-
-
-
-<h3>Navigation</h3>
-
-<div class="relations">
-<h3>Related Topics</h3>
-<ul>
-  <li><a href="#">Documentation overview</a><ul>
-  </ul></li>
-</ul>
-</div>
-<div id="searchbox" style="display: none" role="search">
-  <h3 id="searchlabel">Quick search</h3>
-    <div class="searchformwrapper">
-    <form class="search" action="search.html" method="get">
-      <input type="text" name="q" aria-labelledby="searchlabel" />
-      <input type="submit" value="Go" />
-    </form>
-    </div>
-</div>
-<script>$('#searchbox').show(0);</script>
-
-
-
-
-
-
-
-
+        <div class="jumbotron text-center" id="page-top">
+            <div class="content">
+                <div class="event-date" style="text-shadow: 0px 1px 12px black;"> 17th to 22nd January, 2027 <br><br>Schloss Ringberg, Bavaria, Germany</div><br>
+                <h1 style="text-shadow: 0px 1px 12px black;"> Herbig Stars and Their Planet-Forming Disks </h1>
+                <br><br>
+                <p class="lead" style="text-shadow: 0px 1px 12px black;"> A Ringberg workshop hosted by the Max Planck Institute for Astronomy </p>
+                <br><br>
+                <a href><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg" width="75" height="75" alt=""></a>
+            </div>
         </div>
-      </div>
-      <div class="clearer"></div>
-    </div>
-    <div class="footer">
-      &copy;2019, sphinx-action Test Suite.
-      
-      |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.4.4</a>
-      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
-      
-      |
-      <a href="_sources/index.rst.txt"
-          rel="nofollow">Page source</a>
-    </div>
+        <!-- .Jumbotron-->
 
-    
+        <!-- Section template -->
+<section id="section-overview" class="section-wrapper overview ">
+    <div class="container">
+        <div class="row">
+            <div class="section-title">
+                <h1> Overview </h1>
+            </div>
+            <div class="col-md-12">
+                    <p>Planet-forming disks around Herbig stars (pre-main sequence stars with a mass of &gt;1.5 solar masses) are the primary formation sites of giant exoplanets. These giant exoplanets currently represent the most accessible targets for characterising planetary atmospheres, and thus offer a direct link between observed planetary properties and their formation environment within the natal disk. Moreover, the chemical composition inherited from the disk is key to understanding what molecular building blocks are available for life.</p>
+<p>Advancing our understanding of planet formation therefore requires a detailed study of Herbig stars and their disks. Yet despite their importance, numerous open questions remain, many of which have emerged since the last Herbig star-focused conference over a decade ago, spanning a wide range of disciplines, from chemistry and disk evolution to population statistics and biases. This workshop aims to bring together world-leading experts across these topics to critically assess the current state of the field and define concrete steps to move it forward. Specifically, the workshop will address the following four open questions: </p>
+<p>(1) How do planets form in Herbig disks? </p>
+<p>(2) What sets the lifetime of the disks around Herbig stars and how complete are our catalogues? </p>
+<p>(3) What is the chemical composition of Herbig disks and what are the dominant chemical processes? And lastly, </p>
+<p>(4) How many Herbig stars are in binary or higher-order systems, and how does this influence their evolution? </p>
+<p>The recent detection of the first giant planet candidates in Herbig disks (e.g., Hammond et al. 2023, MNRAS, 522, L51) makes this a particularly opportune moment to address how such objects form and what timescales are available for planet formation in these systems.</p>
+            </div>
+        </div>
+    </div>
+</section><!-- Section template -->
+<section id="section-participants" class="section-wrapper participants ">
+    <div class="container">
+        <div class="row">
+            <div class="section-title">
+                <h1> Participants </h1>
+            </div>
+            <div class="col-md-12">
+                    <p>Alice Booth, 
+Andrew Winter, 
+Antoine Alaguero, 
+Antonella Natta, 
+Arun Roy, 
+Benjamin Montesinos,
+Cade Bürgy, 
+Ciarán Rogers, 
+Clara Ross, 
+Cysil Tom Baby, 
+Dana Anderson, 
+Daniela Iglesias, 
+David Wilner, 
+Davide Fedele, 
+Ewine van Dishoeck, 
+Gwendolyn Meeus, 
+Haochang Jiang, 
+Heather Johnston, 
+Iain Hammond, 
+Ignacio Mendigutia, 
+Jamila Pegues, 
+Jenny Calahan, 
+Jenny Frediani, 
+Jie Ma, 
+Josh Calcino, 
+Joshua Lovell, 
+Karina Mauco, 
+Karolina Szewczyk, 
+Lucas Stapper, 
+Lucia Fullana, 
+Maria Ramirez-Tannus, 
+Matthias Samland, 
+Miguel Vioque, 
+Milou Temmink, 
+Nicolas Cuello, 
+Nienke van der Marel, 
+Olja Panic, 
+Ollie Brown, 
+Pedro Poblete, 
+Rebeca Garcia Lopez, 
+René Oudmaijer</p>
+            </div>
+        </div>
+    </div>
+</section><!-- Section template -->
+<section id="section-logistics" class="section-wrapper logistics gray-bg">
+    <div class="container">
+        <div class="row">
+            <div class="section-title">
+                <h1> Logistics </h1>
+            </div>
+            <div class="col-md-12">
+                    <h2><i class="fa-solid fa-map"></i> Location</h2>
+<p>The workshop will take place at <a href="https://www.schloss-ringberg.de/home">Ringberg Castle</a>, Bavaria, Germany, which overlooks the scenic Tegernsee. With space for roughly 50 participants on a secluded mountaintop, Ringberg is a cozy spot conducive to vibrant scientific discussion, brainstorming new ideas, feasting and merriment, and (if you dare) four-person chess. The full address is as follows:</p>
+<p>Tagungsstätte Schloss Ringberg   <br />
+Schloßstraße 20
+D-83700 Reitrain   <br />
+Bavaria   <br />
+Germany     </p>
+<h2><i class="fa-solid fa-clock"></i> Schedule</h2>
+<p>Participants are expected to arrive on Sunday, January 17th 2027. The workshop will start at 09:00 on Monday, January 18th 2027, and finish at 16:00 on Friday, January 22nd 2027. A full program will be available in due course.</p>
+<h2><i class="fa-solid fa-dollar-sign"></i> Costs</h2>
+<p>While there is no registration fee for the workshop, participants are responsible for their room and board at the castle. Due to the nature and style of the workshop, participants are expected to attend for the full week. The cost will be <em>~€850</em>, which will include lodging and all meals and coffee breaks, as well as a workshop dinner on Thursday 21st of January. Breakfast, lunch, dinner and coffee are provided on-site.</p>
+<p>Please note that dinner is <em>not</em> served on Sunday or Friday.</p>
+<h2><i class="fa-solid fa-universal-access"></i> Accessibility</h2>
+<p>We are committed to providing an accessible environment for all participants.  Ringberg is wheelchair accessible (see <a href="https://www.schloss-ringberg.de/137267/barrierefreiheit">this page</a> for more detailed information). </p>
+            </div>
+        </div>
+    </div>
+</section><!-- Section template -->
+<section id="section-travel-ringberg" class="section-wrapper travel-ringberg ">
+    <div class="container">
+        <div class="row">
+            <div class="section-title">
+                <h1> Travel </h1>
+            </div>
+            <div class="col-md-12">
+                    <h2><i class="fa-solid fa-plane"></i> By plane</h2>
+<p>We recommend flying to Munich Airport (MUC), as this is the nearest international airport to Ringberg. The easiest way to get to Ringberg from MUC is by train. Starting at Munich Airport, take the regional train (S-Bahn) line S1 or S8 to Munich Central Station. From Munich Central Station take the train to Tegernsee Station, and then a Taxi (see below). The total travel time from MUC to Ringberg Castle is around 2hr. </p>
+<h2><i class="fa-solid fa-train-tram"></i> By train</h2>
+<p>The nearest train station to Ringberg is Tegernsee Station. From Tegernsee, you will need to get a taxi to the castle, which is a 15min drive away. </p>
+<p>You can find train travel times by visiting the Deutsche Bahn (German rail) webpage. Train tickets can be bought on the Deutsche Bahn website in advance but we don't recommend the cheaper "saver" tickets as these apply to a specific train – you cannot use them on a different train if you have flight delays.</p>
+<h2><i class="fa-solid fa-taxi"></i> Taxis</h2>
+<p>Given the number of attendees arriving at the same time, a taxi reservation in advance via email is mandatory (Taxi Jasinski, taxi-jasinski@live.de). Nearer the event start date, we will share a spreadsheet for coordinating taxis between those who may be arriving/leaving at the same time.</p>
+<h2><i class="fa-solid fa-road"></i> By car</h2>
+<p>If you decide to rent a car and drive, you can follow the directions on the Ringberg website. Please bear in mind that depending on the snow conditions, you may need snow chains or a four-wheel drive vehicle. Car parking at the castle is free, and does not need to be pre-booked.</p>
+<h2><i class="fa-solid fa-road-barrier"></i> Visas</h2>
+<p>You may need to apply for a visa to enter Germany. See here for <a href="https://www.auswaertiges-amt.de/en/visa-service/visabestimmungen-node">visa requirements</a>. Feel free to contact the organisers if you need a letter of support.</p>
+<p>Note: The visa regulations have changed for those travelling from many countries (including the US and UK) to the EU. For more information, see the <a href="https://travel-europe.europa.eu/en/etias">ETIAS website</a>.</p>
+            </div>
+        </div>
+    </div>
+</section><!-- Section template -->
+<section id="section-code-of-conduct" class="section-wrapper code-of-conduct gray-bg">
+    <div class="container">
+        <div class="row">
+            <div class="section-title">
+                <h1> Code of conduct </h1>
+            </div>
+            <div class="col-md-12">
+                    <div style="text-align:center;">
+<svg aria-hidden="true" height="40" viewBox="0 0 16 16" version="1.1" width="40" data-view-component="true" class="octicon octicon-code-of-conduct mr-2">
+    <path fill-rule="evenodd" d="M8.048 2.241c.964-.709 2.079-1.238 3.325-1.241a4.613 4.613 0 013.282 1.355c.41.408.757.86.996 1.428.238.568.348 1.206.347 1.968 0 2.193-1.505 4.254-3.081 5.862-1.496 1.526-3.213 2.796-4.249 3.563l-.22.163a.75.75 0 01-.895 0l-.221-.163c-1.036-.767-2.753-2.037-4.249-3.563C1.51 10.008.007 7.952.002 5.762a4.614 4.614 0 011.353-3.407C3.123.585 6.223.537 8.048 2.24zm-1.153.983c-.81.78-1.546 1.669-2.166 2.417-.184.222-.358.432-.52.623a.75.75 0 00.04 1.016c.35.35.697.697 1.043 1.047.866.875 2.292.914 3.185.032.264-.26.534-.528.802-.797.694-.694 1.8-.701 2.474-.03L12.92 8.7l.283.284c-.244.334-.515.666-.81.995l-1.384-1.28A.75.75 0 109.99 9.802l1.357 1.252c-.325.31-.656.606-.984.887l-1.48-1.366a.75.75 0 10-1.018 1.102L9.191 12.9c-.433.34-.838.643-1.191.905-1.04-.773-2.537-1.907-3.846-3.242C2.611 8.99 1.502 7.306 1.502 5.75a3.114 3.114 0 01.913-2.335c1.159-1.158 3.23-1.224 4.48-.191zm7.112 4.442c.313-.65.491-1.293.491-1.916v-.001c0-.614-.088-1.045-.23-1.385-.143-.339-.357-.633-.673-.949a3.113 3.113 0 00-2.218-.915c-1.092.003-2.165.627-3.226 1.602-.823.755-1.554 1.637-2.228 2.45l-.127.154.562.566a.756.756 0 001.066.02l.794-.79c1.258-1.258 3.312-1.31 4.594-.032.396.394.792.791 1.173 1.173l.022.023z"></path>
+</svg>
+</div>
+<p>During the workshop, we require participants to follow the code of conduct for the workshop which can be found below. If you have any questions about the workshop, you can reach the organizing committee.</p>
+<p>The organizers are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment, abusive behavior, or intimidation of conference participants in any form.  As such, we follow <a href="https://eas.unige.ch/documents/EAS_Ethics_Statement.pdf">the European Astronomical Society Council (EAS) Ethics Statement and Guidelines for Good Practice</a> and expect all participants to read and abide by their statements.</p>
+<p>In addition to a general Code of Conduct and Ethics, all participants must agree with our collaboration policy: that is (1) to openly share their ideas, expertise, and interim results and (2) to respect the sensitivity of in-progress results that are shared at the conference. Participants are encouraged to discuss on-going projects, to change gears, and to start new collaborations. Any participant contributing significantly to a project can expect appropriate credit vessels (e.g., co-authorship).</p>
+<p>We pledge to help the entire community follow the code of conduct, and to not remain silent when we see violations of the code of conduct. We will take action when members of our community violate this code such as notifying a workshop organizer or talking privately with the person.
+This code of conduct applies to all community situations online and offline, including the conference itself, mailing lists, forums, social media, social events associates with the conference, and one-to-one interactions.</p>
+<p>Participants asked to stop any harassing behavior are expected to comply immediately. Attendees violating these rules may be asked to leave the event at the sole discretion of the conference organizers.</p>
+            </div>
+        </div>
+    </div>
+</section>
+        <!-- .about-event -->
 
-    
-  </body>
+    <footer class="footer">
+        <div class="copyright-section">
+            <div class="container">
+                <div class="col-md-12">
+                    <div class="copytext text-center"><br>
+                        <ul class=network-icon aria-hidden=true>
+                            <li>
+                                <a href=lustapper@mpia.de}} aria-label=envelope>
+                                    <i class="fas fa-envelope big-icon" style="font-size:36px;"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="copytext text-center">
+                            &copy Conference.
+                            This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+                            <br>
+                        <a href="http://www.mpia.de/imprint" target="_blank">imprint</a>,
+                        <a href="http://www.mpia.de/privacy-policy" target="_blank">privacy policy</a>
+                        <br>
+                        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+                            <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+                            <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+                            <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+                            <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+                            </a>
+                    </div>
+                </div>
+            </div>
+            <!-- .container -->
+        </div>
+        <!-- .copyright-section -->
+    </footer>
+    <!-- .footer -->
+
+    </div>
+    <!-- #main-wrapper -->
+    <!-- jquery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+
 </html>
