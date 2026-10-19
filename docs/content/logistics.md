@@ -27,13 +27,14 @@ While there is no registration fee for the workshop, participants are responsibl
 
 In case you have to cancel your participation, you will have to pay a cancellation fee, unless we are able to fill your spot. Of course we will try our best to fill the spot, but we cannot guarantee that we will be successful. If the spot remains open, the cancellation fee is subject to the date of your cancellation:
 
-<ul class="fa-ul">
+<ul class="fa-ul" style="margin-bottom: 1.5em;">
   <li><span class="fa-li"><i class="fa-solid fa-angle-right"></i></span>cancelled more than three months in advance: 50%</li>
   <li><span class="fa-li"><i class="fa-solid fa-angle-right"></i></span>cancelled more than two weeks, but less than three months in advance: 75%</li>
   <li><span class="fa-li"><i class="fa-solid fa-angle-right"></i></span>cancelled less than two weeks in advance: 100%</li>
 </ul>
 
 
+
 ## <i class="fa-solid fa-universal-access"></i> Accessibility
 
-We are committed to providing an accessible environment for all participants.  Ringberg is wheelchair accessible (see [this page](https://www.schloss-ringberg.de/137267/barrierefreiheit) for more detailed information). 
+We are committed to providing an accessible environment for all participants. Ringberg is wheelchair accessible (see [this page](https://www.schloss-ringberg.de/137267/barrierefreiheit) for more detailed information). 
