@@ -1,7 +1,7 @@
 ---
 # Program
 type: schedule
-active: true
+active: false
 title: Programme
 
 program:
