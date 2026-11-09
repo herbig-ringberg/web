@@ -21,10 +21,10 @@ program:
     title: Talks 1
     description: |2-
       Introductory Remarks
-      Lucas Stapper
-      Haochang Jiang
-      David Wilner
-      Jonathan Williams
+      Lucas Stapper: TBD
+      Haochang Jiang: Broadband dust SED fitting of Herbigs
+      David Wilner: An SMA and ALMA 1.3 mm Survey of Herbig Be stars
+      Jonathan Williams: The Missing Mass Problem
     
   - day: Monday 18th of January
     time: "10:30 – 11:00"
@@ -34,11 +34,11 @@ program:
     time: "11:00 – 12:30"
     title: Talks 2
     description: |2-
-      Andrew Winter
-      Olja Panic
-      Karolina Szewczyk
-      Daniela Iglesias
-      Joshua Lovell
+      Andrew Winter: Solving the Herbig lifetime problem
+      Olja Panic: Emergence of the youngest debris discs
+      Karolina Szewczyk: Catching discs in the transition from protoplanetary to debris disc stage
+      Daniela Iglesias: Disc evolution in intermediate-mass stars
+      Joshua Lovell: Protoplanetary disk evolution and debris disk formation in Taurus: an SMA & ALMA + SED study of all the earliest type class II & III stars
 
   - day: Monday 18th of January
     time: "12:30 – 14:00"
@@ -254,6 +254,6 @@ program:
 
 ---
 
-The workshop will run from Monday the 18th to Friday the 22nd of January, and will also include a welcome reception on the evening of Sunday the 17th of January. Below we include a schematic of the program, and all talk titles.
+The workshop will run from Monday the 18th to Friday the 22nd of January, and will also include a welcome reception on the evening of Sunday the 17th of January. Below we include a schematic of the program, and all talk titles. Science talks are expected to have a duration of 15 minutes, followed by questions. 
 
 <img width="1500px" src="static/img/RingbergSchedule.png" style="float:center">
