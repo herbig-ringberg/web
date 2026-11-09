@@ -221,7 +221,37 @@ program:
   - day: Thursday 21st of January
     time: "18:30 – 19:30"
     title: Dinner
+
+  - day: Friday 22nd of January
+    time: "08:00 – 09:00"
+    title: Breakfast
+
+  - day: Friday 22nd of January
+    time: "09:00 – 10:30"
+    title: Talks 8
+    description: |2-
+      Iain Hammond
+      Arun Roy
+      Heather Johnston
+      Jie Ma
     
+  - day: Friday 22nd of January
+    time: "10:30 – 11:00"
+    title: Break
+
+  - day: Friday 22nd of January
+    time: "11:00 – 12:30"
+    title: Discussion Day 5 & Week
+    description: Plenary
+
+  - day: Friday 22nd of January
+    time: "12:30 – 14:00"
+    title: Lunch
+
+  - day: Friday 22nd of January
+    time: "14:00 – 18:00"
+    title: Departure (no dinner!)
+
 ---
 
 The workshop will run from Monday the 18th to Friday the 22nd of January, and will also include a welcome reception on the evening of Sunday the 17th of January. Below we include a schematic of the program, and all talk titles.
