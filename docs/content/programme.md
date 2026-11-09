@@ -69,6 +69,36 @@ program:
   - day: Monday 18th of January
     time: "18:30 – 19:30"
     title: Dinner
+
+  - day: Tuesday 19th of January
+    time: "08:00 – 09:00"
+    title: Breakfast
+
+  - day: Tuesday 19th of January
+    time: "09:00 – 10:30"
+    title: Talks 3
+    description: |2-
+      Sebastian Marino
+      Cat Sarosi
+    
+  - day: Tuesday 19th of January
+    time: "10:30 – 11:00"
+    title: Break
+
+  - day: Tuesday 19th of January
+    time: "11:00 – 12:30"
+    title: Talks 4
+    description: |2-
+      Ewine van Dishoeck
+      Clara Ross
+      Alice Booth
+      Milou Temmink
+      Jamila Pegues
+
+  - day: Tuesday 19th of January
+    time: "12:30 – 14:00"
+    title: Lunch
+    
 ---
 
 The workshop will run from Monday the 18th to Friday the 22nd of January, and will also include a welcome reception on the evening of Sunday the 17th of January. Below we include a schematic of the program, and all talk titles.
