@@ -6,16 +6,31 @@ title: Programme
 
 program:
   - day: Sunday 17th of January
-    time: "14:00–18:30"
+    time: "14:00 – 18:30"
     title: Arrival
 
   - day: Sunday 17th of January
-    time: "18:30"
+    time: "18:30 - 19:30"
     title: Dinner
 
   - day: Monday 18th of January
-    time: "08:00–09:00"
+    time: "08:00 – 09:00"
     title: Breakfast
+
+  - day: Monday 18th of January
+    time: "09:00 - 10:30"
+    title: Talks 1
+    description: |2-
+      Introductory Remarks
+      Lucas Stapper
+      Haochang Jiang
+      David Wilner
+      Jonathan Williams
+    
+  - day: Monday 18th of January
+    time: "10:30 – 11:00"
+    title: Break
+      
 
 
 
