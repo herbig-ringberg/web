@@ -169,6 +169,58 @@ program:
   - day: Wednesday 20th of January
     time: "18:30 – 19:30"
     title: Bavarian Evening
+
+  - day: Thursday 21st of January
+    time: "08:00 – 09:00"
+    title: Breakfast
+
+  - day: Thursday 21st of January
+    time: "09:00 – 10:30"
+    title: Talks 8
+    description: |2-
+      Benjamin Montesinos
+      Gwendolyn Meeus
+      Lucia Fullana
+      Cysil Tom Baby
+      Shridharan Baskaran
+    
+  - day: Thursday 21st of January
+    time: "10:30 – 11:00"
+    title: Break
+
+  - day: Thursday 21st of January
+    time: "11:00 – 12:30"
+    title: Talks 9
+    description: |2-
+      Cade Bürgy
+      Caitlyn Hardiman
+      Ciaran Rogers
+
+  - day: Thursday 21st of January
+    time: "12:30 – 14:00"
+    title: Lunch
+
+  - day: Thursday 21st of January
+    time: "14:00 – 15:30"
+    title: Discussion Days 3 & 4
+    description: Breakouts
+
+  - day: Thursday 21st of January
+    time: "15:30 – 16:00"
+    title: Break
+
+  - day: Thursday 21st of January
+    time: "16:00 – 17:30"
+    title: Additional Discussion Session
+    description: Breakouts
+
+  - day: Thursday 21st of January
+    time: "17:30 – 18:30"
+    title: Free Time
+
+  - day: Thursday 21st of January
+    time: "18:30 – 19:30"
+    title: Dinner
     
 ---
 
