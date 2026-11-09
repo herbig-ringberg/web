@@ -1,5 +1,4 @@
 ---
-# Program
 type: schedule
 active: true
 title: Programme
@@ -70,13 +69,6 @@ program:
   - day: Monday 18th of January
     time: "18:30 – 19:30"
     title: Dinner
-    
-	
-
-  
-
-
-
 ---
 
 The workshop will run from Monday the 18th to Friday the 22nd of January, and will also include a welcome reception on the evening of Sunday the 17th of January. Below we include a schematic of the program, and all talk titles.
