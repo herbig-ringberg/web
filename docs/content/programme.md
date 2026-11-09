@@ -106,8 +106,8 @@ program:
       Dana Anderson: Cold Chemistry Tracers in T Tauri and Herbig Planet-forming Disks.
       Maria Ramirez-Tannus: TBD
       Jenny Calahan: Modeling the Inner Disk of Herbigs
-      Jenny Frediani
-      Josh Calcino
+      Jenny Frediani: The chemistry of Herbig inner disks: connecting JWST observations and thermochemical models
+      Josh Calcino: Morphological, kinematic, and chemical signatures of infall
 
   - day: Tuesday 19th of January
     time: "15:30 – 16:00"
@@ -134,11 +134,11 @@ program:
     time: "09:00 – 10:30"
     title: Talks 6
     description: |2-
-      Nienke van der Marel
-      Matthias Samland
-      Nicolas Cuello
-      Pedro Poblete
-      Ollie Brown
+      Nienke van der Marel: TBD
+      Matthias Samland: Life After Herbig: Debris Disks Around the Descendants of Herbig Stars
+      Nicolas Cuello: Beyond isolation: how stellar flybys shape planet-forming discs
+      Pedro Poblete: Environmental interactions in Class II systems and their impact on the disk-planet architecture
+      Ollie Brown: Recovering Parametric Instability in Warped Discs Using a Global Grid-based Code (FARGO3D)
     
   - day: Wednesday 20th of January
     time: "10:30 – 11:00"
@@ -148,11 +148,11 @@ program:
     time: "11:00 – 12:30"
     title: Talks 7
     description: |2-
-      Camila Pulgares
-      Antoine Alaguero
-      René Oudmaijer
-      Ignacio Mendigutia
-      Benjamin Montesinos
+      Camila Pulgares: INSECT: Investigating the NaScent Environment of Circumbinary planeTs
+      Antoine Alaguero: Disc dynamics and grain properties in the triple system V892 Tau
+      René Oudmaijer: TBD
+      Ignacio Mendigutia: TBD
+      Benjamin Montesinos: The formation of massive stars: An approach to model the accretion boundary layer using Cloudy
 
   - day: Wednesday 20th of January
     time: "12:30 – 14:00"
@@ -178,10 +178,10 @@ program:
     time: "09:00 – 10:30"
     title: Talks 8
     description: |2-
-      Iain Hammond
-      Arun Roy
-      Heather Johnston
-      Jie Ma
+      Iain Hammond: A Disc within a Disc? The Status of the HD 169142 Follow-up Campaign
+      Arun Roy: A Scattered-Light Census of Herbig Ae/Be Disks within 500 parsec using SPHERE/IRDIS.
+      Heather Johnston: Giant planet formation around intermediate-mass stars
+      Jie Ma: Characterizing Dust in Protoplanetary disks with Quantitative Polarimetry
       Davide Fedele: Hunting for Giant Protoplanets in Herbig Ae Disks with VLT/ERIS
     
   - day: Thursday 21st of January
@@ -192,10 +192,10 @@ program:
     time: "11:00 – 12:30"
     title: Talks 9
     description: |2-
-      Gwendolyn Meeus
-      Lucia Fullana
-      Cysil Tom Baby
-      Shridharan Baskaran
+      Gwendolyn Meeus: The evolution of the X-ray emission in intermediate-mass PMS stars: connection to accretion properties?
+      Lucia Fullana: Unveiling the Accretion Process in Massive Young Stellar Objects
+      Cysil Tom Baby: Accretion Across the Intermediate-Mass Regime: From Magnetospheric Flows to Boundary Layers
+      Shridharan Baskaran: Short-lived but hungry: accretion and disk dispersal across Herbig Ae/Be stars
 
   - day: Thursday 21st of January
     time: "12:30 – 14:00"
@@ -231,9 +231,9 @@ program:
     time: "09:00 – 10:30"
     title: Talks 8
     description: |2-
-      Cade Bürgy
-      Caitlyn Hardiman
-      Ciaran Rogers
+      Cade Bürgy: A detailed study of the CO overtone emission from the inner gasous discs around Herbigs
+      Caitlyn Hardiman: TBD
+      Ciaran Rogers: Fitting CO bandhead emission to determine the inner-disc properties of externally irradiated Herbig Ae discs in NGC 3603.
       
   - day: Friday 22nd of January
     time: "10:30 – 11:00"
