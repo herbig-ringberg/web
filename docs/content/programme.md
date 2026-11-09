@@ -45,11 +45,11 @@ program:
     title: Lunch
 
   - day: Monday 18th of January
-    time: "14:00 – 14:50"
+    time: "14:00 – 15:00"
     title: Introduction Slides
 
   - day: Monday 18th of January
-    time: "14:50 – 15:30"
+    time: "15:00 – 15:30"
     title: Talk - History and Future of Herbigs
     description: Mario van den Ancker
 
@@ -98,6 +98,33 @@ program:
   - day: Tuesday 19th of January
     time: "12:30 – 14:00"
     title: Lunch
+
+  - day: Tuesday 19th of January
+    time: "14:00 – 15:30"
+    title: Talks 5
+    description: |2-
+      Dana Anderson
+      Maria Ramirez-Tannus
+      Jenny Calahan
+      Davide Fedele
+      Jenny Frediani
+
+  - day: Tuesday 19th of January
+    time: "15:30 – 16:00"
+    title: Break
+
+  - day: Tuesday 19th of January
+    time: "16:00 – 17:30"
+    title: Discussion Days 1 & 2
+    description: Breakouts
+
+  - day: Tuesday 19th of January
+    time: "17:30 – 18:30"
+    title: Free Time
+
+  - day: Tuesday 19th of January
+    time: "18:30 – 19:30"
+    title: Dinner
     
 ---
 
