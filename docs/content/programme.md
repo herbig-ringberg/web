@@ -10,7 +10,7 @@ program:
     title: Arrival
 
   - day: Sunday 17th of January
-    time: "18:30 - 19:30"
+    time: "18:30 – 19:30"
     title: Dinner
 
   - day: Monday 18th of January
@@ -18,7 +18,7 @@ program:
     title: Breakfast
 
   - day: Monday 18th of January
-    time: "09:00 - 10:30"
+    time: "09:00 – 10:30"
     title: Talks 1
     description: |2-
       Introductory Remarks
@@ -30,6 +30,20 @@ program:
   - day: Monday 18th of January
     time: "10:30 – 11:00"
     title: Break
+
+  - day: Monday 18th of January
+    time: "11:00 – 12:30"
+    title: Talks 2
+    description: |2-
+      Andrew Winter
+      Olja Panic
+      Karolina Szewczyk
+      Daniela Iglesias
+      Joshua Lovell
+
+  - day: Monday 18th of January
+    time: "12:30 – 14:00"
+    title: Lunch
       
 
 
