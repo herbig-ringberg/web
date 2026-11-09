@@ -255,3 +255,5 @@ program:
 ---
 
 The workshop will run from Monday the 18th to Friday the 22nd of January, and will also include a welcome reception on the evening of Sunday the 17th of January. Below we include a schematic of the program, and all talk titles.
+
+<img width="600px" src="static/img/RingbergSchedule.png" style="float:center">
