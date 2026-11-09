@@ -5,30 +5,20 @@ active: true
 title: Programme
 
 program:
-  - day: Sunday
+  - day: Sunday 17th of January
+    time: "14:00–18:30"
+    title: Arrival
+
+  - day: Sunday 17th of January
+    time: "18:30"
+    title: Dinner
+
+  - day: Monday 18th of January
     time: "08:00–09:00"
-    title: Talk title
-    description: Speaker name
+    title: Breakfast
 
-  - day: Sunday
-    time: "09:00–10:30"
-    title: Talk title
-    description: Speaker name
 
-  - day: Sunday
-    time: "10:30–11:00"
-    title: Coffee break
-    highlight: true
 
-  - day: Sunday
-    time: "11:00–12:30"
-    title: Talk title
-    description: Speaker name
-
-  - day: Monday
-    time: "08:00–09:00"
-    title: Talk title
-    description: Speaker name
 ---
 
-The workshop will run from Monday 9th March to Friday 13th March, and will also include a welcome reception on the evening of Sunday 8th March. Below we include a schematic of the program, and all talk titles.
+The workshop will run from Monday the 18th to Friday the 22nd of January, and will also include a welcome reception on the evening of Sunday the 17th of January. Below we include a schematic of the program, and all talk titles.
