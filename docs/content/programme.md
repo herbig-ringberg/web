@@ -51,7 +51,7 @@ program:
 
   - day: Monday 18th of January
     time: "14:50 – 15:30"
-    title: Talk: History and Future of Herbigs
+    title: Talk - History and Future of Herbigs
     description: Mario van den Ancker
 
   - day: Monday 18th of January
@@ -61,7 +61,7 @@ program:
   - day: Monday 18th of January
     time: "16:00 – 17:30"
     title: Discussion
-    description: Chair: Miguel Vioque
+    description: Chair - Miguel Vioque
 
   - day: Monday 18th of January
     time: "17:30 – 18:30"
