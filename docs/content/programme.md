@@ -125,6 +125,50 @@ program:
   - day: Tuesday 19th of January
     time: "18:30 – 19:30"
     title: Dinner
+
+  - day: Wednesday 20th of January
+    time: "08:00 – 09:00"
+    title: Breakfast
+
+  - day: Wednesday 20th of January
+    time: "09:00 – 10:30"
+    title: Talks 6
+    description: |2-
+      Josh Calcino
+      Nienke van der Marel
+      Matthias Samland
+      Nicolas Cuello
+      Pedro Poblete
+    
+  - day: Wednesday 20th of January
+    time: "10:30 – 11:00"
+    title: Break
+
+  - day: Wednesday 20th of January
+    time: "11:00 – 12:30"
+    title: Talks 7
+    description: |2-
+      Ollie Brown
+      Camila Pulgares
+      Antoine Alaguero
+      René Oudmaijer
+      Ignacio Mendigutia
+
+  - day: Wednesday 20th of January
+    time: "12:30 – 14:00"
+    title: Lunch & Conference Picture
+
+  - day: Wednesday 20th of January
+    time: "14:00 – 17:30"
+    title: Free Time
+
+  - day: Wednesday 20th of January
+    time: "17:30 – 18:30"
+    title: Castle Tour
+
+  - day: Wednesday 20th of January
+    time: "18:30 – 19:30"
+    title: Bavarian Evening
     
 ---
 
