@@ -78,8 +78,8 @@ program:
     time: "09:00 – 10:30"
     title: Talks 3
     description: |2-
-      Sebastian Marino
-      Cat Sarosi
+      Sebastian Marino: TBD
+      Cat Sarosi: TBD
     
   - day: Tuesday 19th of January
     time: "10:30 – 11:00"
@@ -89,11 +89,11 @@ program:
     time: "11:00 – 12:30"
     title: Talks 4
     description: |2-
-      Ewine van Dishoeck
-      Clara Ross
-      Alice Booth
-      Milou Temmink
-      Jamila Pegues
+      Ewine van Dishoeck: TBD
+      Clara Ross: Spectral Line Surveys of Disks around Intermediate-Mass Stars
+      Alice Booth: Herbig disk chemistry: moving from the outer to the inner disk 
+      Milou Temmink: The peculiar C-rich chemistry of the HD 142527 disk triggered by late infall
+      Jamila Pegues: Three Cheers for ALMA CHEER: Characterizing Planet-Forming Chemistry around Herbig Stars
 
   - day: Tuesday 19th of January
     time: "12:30 – 14:00"
@@ -103,11 +103,11 @@ program:
     time: "14:00 – 15:30"
     title: Talks 5
     description: |2-
-      Dana Anderson
-      Maria Ramirez-Tannus
-      Jenny Calahan
-      Davide Fedele
+      Dana Anderson: Cold Chemistry Tracers in T Tauri and Herbig Planet-forming Disks.
+      Maria Ramirez-Tannus: TBD
+      Jenny Calahan: Modeling the Inner Disk of Herbigs
       Jenny Frediani
+      Josh Calcino
 
   - day: Tuesday 19th of January
     time: "15:30 – 16:00"
@@ -134,11 +134,11 @@ program:
     time: "09:00 – 10:30"
     title: Talks 6
     description: |2-
-      Josh Calcino
       Nienke van der Marel
       Matthias Samland
       Nicolas Cuello
       Pedro Poblete
+      Ollie Brown
     
   - day: Wednesday 20th of January
     time: "10:30 – 11:00"
@@ -148,11 +148,11 @@ program:
     time: "11:00 – 12:30"
     title: Talks 7
     description: |2-
-      Ollie Brown
       Camila Pulgares
       Antoine Alaguero
       René Oudmaijer
       Ignacio Mendigutia
+      Benjamin Montesinos
 
   - day: Wednesday 20th of January
     time: "12:30 – 14:00"
@@ -178,11 +178,11 @@ program:
     time: "09:00 – 10:30"
     title: Talks 8
     description: |2-
-      Benjamin Montesinos
-      Gwendolyn Meeus
-      Lucia Fullana
-      Cysil Tom Baby
-      Shridharan Baskaran
+      Iain Hammond
+      Arun Roy
+      Heather Johnston
+      Jie Ma
+      Davide Fedele: Hunting for Giant Protoplanets in Herbig Ae Disks with VLT/ERIS
     
   - day: Thursday 21st of January
     time: "10:30 – 11:00"
@@ -192,9 +192,10 @@ program:
     time: "11:00 – 12:30"
     title: Talks 9
     description: |2-
-      Cade Bürgy
-      Caitlyn Hardiman
-      Ciaran Rogers
+      Gwendolyn Meeus
+      Lucia Fullana
+      Cysil Tom Baby
+      Shridharan Baskaran
 
   - day: Thursday 21st of January
     time: "12:30 – 14:00"
@@ -230,11 +231,10 @@ program:
     time: "09:00 – 10:30"
     title: Talks 8
     description: |2-
-      Iain Hammond
-      Arun Roy
-      Heather Johnston
-      Jie Ma
-    
+      Cade Bürgy
+      Caitlyn Hardiman
+      Ciaran Rogers
+      
   - day: Friday 22nd of January
     time: "10:30 – 11:00"
     title: Break
