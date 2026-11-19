@@ -256,4 +256,4 @@ program:
 
 The workshop will run from Monday the 18th to Friday the 22nd of January, and will also include a welcome reception on the evening of Sunday the 17th of January. Below we include a schematic of the program, and all talk titles. Science talks are expected to have a duration of 15 minutes, followed by questions. The program can be subject to change as the participant list is finalised.
 
-<img src="static/img/RingbergSchedule_v03.png" style="display:block; margin:0 auto; max-width:100%; height:auto;">
+<img src="static/img/Ringberg_Schedule_v03.png" style="display:block; margin:0 auto; max-width:100%; height:auto;">
