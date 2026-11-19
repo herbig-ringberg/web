@@ -5,7 +5,7 @@ title: Programme
 
 program:
   - day: Sunday 17th of January
-    time: "14:00 – 18:30"
+    time: "16:00 – 18:30"
     title: Arrival
 
   - day: Sunday 17th of January
